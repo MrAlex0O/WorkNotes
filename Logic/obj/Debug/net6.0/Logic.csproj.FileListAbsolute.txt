@@ -1,0 +1,15 @@
+D:\Projects\WorkNotes\Logic\bin\Debug\net6.0\Logic.deps.json
+D:\Projects\WorkNotes\Logic\bin\Debug\net6.0\Logic.dll
+D:\Projects\WorkNotes\Logic\bin\Debug\net6.0\Logic.pdb
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.csproj.AssemblyReference.cache
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.AssemblyInfoInputs.cache
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.AssemblyInfo.cs
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.csproj.CoreCompileInputs.cache
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.dll
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\refint\Logic.dll
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.pdb
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\ref\Logic.dll
+D:\Projects\WorkNotes\Logic\obj\Debug\net6.0\Logic.csproj.CopyComplete
+D:\Projects\WorkNotes\Logic\bin\Debug\net6.0\DataBase.dll
+D:\Projects\WorkNotes\Logic\bin\Debug\net6.0\DataBase.pdb

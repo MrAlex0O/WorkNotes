@@ -1,0 +1,14 @@
+D:\Projects\WorkNotes\BataBase\bin\Debug\net6.0\BataBase.deps.json
+D:\Projects\WorkNotes\BataBase\bin\Debug\net6.0\BataBase.runtimeconfig.json
+D:\Projects\WorkNotes\BataBase\bin\Debug\net6.0\BataBase.dll
+D:\Projects\WorkNotes\BataBase\bin\Debug\net6.0\BataBase.pdb
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.csproj.AssemblyReference.cache
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.AssemblyInfoInputs.cache
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.AssemblyInfo.cs
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.csproj.CoreCompileInputs.cache
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.dll
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\refint\BataBase.dll
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.pdb
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\BataBase.genruntimeconfig.cache
+D:\Projects\WorkNotes\BataBase\obj\Debug\net6.0\ref\BataBase.dll
